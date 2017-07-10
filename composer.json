@@ -1,0 +1,9 @@
+{
+  "name": "linfuby/modules",
+  "description": "Modules for PHPixie",
+  "type": "library",
+  "require": {
+    "phpixie/framework": "^3.12"
+  },
+  "license": "MIT"
+}
